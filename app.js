@@ -51,7 +51,7 @@ const getLyric = async (artist, title) => {
   }
     }
 
-    
+
 // const getLyric = (artist, title) => {
 //     const url = `https://api.lyrics.ovh/v1/${artist}/${title}`;
 //     fetch(url)
